@@ -15,10 +15,10 @@ export const skillsItems: SVGItem[] = [
     category: 'skills',
   },
   {
-    id: 'badge-antigravity',
-    title: 'Antigravity',
-    filename: 'badges/skills/tecnologias/badge-antigravity.svg',
-    alt: 'Badge Antigravity',
+    id: 'badge-cursor',
+    title: 'Cursor',
+    filename: 'badges/skills/ferramentas/badge-cursor.svg',
+    alt: 'Badge Cursor',
     category: 'skills',
   },
   {
