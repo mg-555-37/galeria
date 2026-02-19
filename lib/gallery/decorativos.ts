@@ -231,4 +231,26 @@ export const decorativosItems: SVGItem[] = [
     alt: 'Badge Visionario',
     category: 'decorativos',
   },
+  /* -------------------------- BADGES AI & AGENTIC -------------------------- */
+  {
+    id: 'badge-antigravity',
+    title: 'Badge Antigravity',
+    filename: 'badges/decorativos/badge-antigravity.svg',
+    alt: 'Badge Antigravity',
+    category: 'decorativos',
+  },
+  {
+    id: 'badge-ai-native',
+    title: 'Badge AI Native',
+    filename: 'badges/decorativos/badge-ai-native.svg',
+    alt: 'Badge AI Native',
+    category: 'decorativos',
+  },
+  {
+    id: 'badge-agentic-coder',
+    title: 'Badge Agentic Coder',
+    filename: 'badges/decorativos/badge-agentic-coder.svg',
+    alt: 'Badge Agentic Coder',
+    category: 'decorativos',
+  },
 ];
