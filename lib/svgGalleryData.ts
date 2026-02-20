@@ -149,6 +149,9 @@ const SKILLS_FERRAMENTAS_IDS = new Set<string>([
   'badge-clickup',
   'badge-splunk',
   'badge-airflow',
+  'badge-antigravity',
+  'badge-cursor',
+  'badge-congelado',
 ]);
 
 export const getSkillsLangsItems = (): SVGItem[] =>
