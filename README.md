@@ -1,11 +1,7 @@
-<!--
-  Proveniência e Autoria: Este documento integra o projeto Galeria I.C.L (licença MIT).
+Proveniência e Autoria: Este documento integra o projeto Galeria I.C.L (licença MIT).
   Nada aqui implica cessão de direitos morais/autorais.
   Conteúdos de terceiros não licenciados de forma compatível não devem ser incluídos.
   Referências a materiais externos devem ser linkadas e reescritas com palavras próprias.
--->
-
-> NOTA: Vou congelar o desenvolvimento desse site que na verdade esse site eu fiz pelos cocos, eu não tinha plano de o fazer, fiz por pura vaidade. me de uma nota por ele, acho que limpo deve ter levado uma semana e meia pra fazer.
 
 <div align="center">
 
